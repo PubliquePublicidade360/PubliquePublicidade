@@ -1,228 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.11" apprev="18043" start="node20">
-  <panorama id="node20">
-    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="960" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="960" levelingpitch="0">
-      <level predecode="0" width="960" preload="0" height="960"/>
-      <level predecode="1" width="480" preload="1" height="480"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="-152.68" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30707748" datetime="" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45196411" title="Belinha Calçados" nodeid="node20" streetviewlink="https://www.google.com/maps/@-29.4519641,-51.3070775,3a,75y,207.32h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfi-FAADFHr!2e10" copyright="" heading="-152.68"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="6.50867" url="{node12}" title="Belinha Calçados" distance="2.52901" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node12">
-    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="-174.205" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30708676" datetime="2025:03:25 17:33:04" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45198537" title="Belinha Calçados" nodeid="node12" streetviewlink="https://www.google.com/maps/@-29.4519854,-51.3070868,3a,75y,185.79h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-FMADf-2!2e10" copyright="" heading="-174.205"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="-195.016" url="{node20}" title="Belinha Calçados" distance="2.52901" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="-331.138" url="{node4}" title="Belinha Calçados" distance="1.65817" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node4">
-    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="183.018" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30708005" datetime="2025:03:25 17:33:10" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45199909" title="Belinha Calçados" nodeid="node4" streetviewlink="https://www.google.com/maps/@-29.4519991,-51.3070801,3a,75y,183.02h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfi-FMAB4S7!2e10" copyright="" heading="183.018"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="206.085" url="{node12}" title="Belinha Calçados" distance="1.65817" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="22.6029" url="{node7}" title="Belinha Calçados" distance="2.03354" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node7">
-    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="175.455" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30707301" datetime="2025:03:25 17:33:13" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45201632" title="Belinha Calçados" nodeid="node7" streetviewlink="https://www.google.com/maps/@-29.4520163,-51.307073,3a,75y,175.46h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-GwAA_W7!2e10" copyright="" heading="175.455"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="195.04" url="{node4}" title="Belinha Calçados" distance="2.03354" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="68.6609" url="{node14}" title="Belinha Calçados" distance="1.79723" tilt="0"/>
-      <hotspot id="Point03" target="$fwd" description="" skinid="ht_node" pan="329.951" url="{node19}" title="Belinha Calçados" distance="1.58312" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node14">
-    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="111.969" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30705524" datetime="2025:03:25 17:33:06" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45202099" title="Belinha Calçados" nodeid="node14" streetviewlink="https://www.google.com/maps/@-29.452021,-51.3070552,3a,75y,111.97h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-GsADsRS!2e10" copyright="" heading="111.969"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="185.175" url="{node7}" title="Belinha Calçados" distance="1.79723" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="0.170963" url="{node15}" title="Belinha Calçados" distance="1.39841" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node15">
-    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="127.609" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30704183" datetime="2025:03:25 17:33:06" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45202566" title="Belinha Calçados" nodeid="node15" streetviewlink="https://www.google.com/maps/@-29.4520257,-51.3070418,3a,75y,127.61h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-GwABp8W!2e10" copyright="" heading="127.609"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="195.811" url="{node14}" title="Belinha Calçados" distance="1.39841" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="13.4763" url="{node16}" title="Belinha Calçados" distance="1.35169" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node16">
-    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="142.54" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30702909" datetime="2025:03:25 17:33:07" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45203063" title="Belinha Calçados" nodeid="node16" streetviewlink="https://www.google.com/maps/@-29.4520306,-51.3070291,3a,75y,142.54h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-IkACJ1b!2e10" copyright="" heading="142.54"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="208.407" url="{node15}" title="Belinha Calçados" distance="1.35169" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="28.6137" url="{node17}" title="Belinha Calçados" distance="1.59845" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node17">
-    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="199.007" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30701400" datetime="2025:03:25 17:33:07" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45203646" title="Belinha Calçados" nodeid="node17" streetviewlink="https://www.google.com/maps/@-29.4520365,-51.307014,3a,75y,199.01h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfi-IoAAQ3Q!2e10" copyright="" heading="199.007"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="265.081" url="{node16}" title="Belinha Calçados" distance="1.59845" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node19">
-    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="27.4249" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30708005" datetime="2025:03:25 17:33:11" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45202917" title="Belinha Calçados" nodeid="node19" streetviewlink="https://www.google.com/maps/@-29.4520292,-51.3070801,3a,75y,27.42h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-IsAALpa!2e10" copyright="" heading="27.4249"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="1.92101" url="{node7}" title="Belinha Calçados" distance="1.58312" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="181.7" url="{node11}" title="Belinha Calçados" distance="1.94522" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
+<tour appversion="6.1.11" apprev="18043" start="node11">
   <panorama id="node11">
     <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
       <level predecode="0" width="1488" preload="0" height="1488"/>
@@ -230,18 +7,17 @@
       <level predecode="1" width="372" preload="1" height="372"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="68.94" fovmode="0">
+    <view pannorth="223.054" fovmode="0">
       <start pan="0" fov="70" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
     </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30708877" datetime="2025:03:25 17:33:03" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45204493" title="Belinha Calçados" nodeid="node11" streetviewlink="https://www.google.com/maps/@-29.4520449,-51.3070888,3a,75y,68.94h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-KUAC2-S!2e10" copyright="" heading="68.94"/>
+    <userdata customnodeid="" author="" description="" longitude="-51.37507845" datetime="2025:03:25 20:20:28" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58892793" title="Belinha Calçados" nodeid="node11" streetviewlink="https://www.google.com/maps/@-29.5889279,-51.3750784,3a,75y,223.05h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjH8wABI3a!2e10" copyright="" heading="223.054"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="43.2155" url="{node19}" title="Belinha Calçados" distance="1.94522" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="-39.9684" url="{node3}" title="Belinha Calçados" distance="1.30391" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="395.787" url="{node3}" title="Belinha Calçados" distance="4.06682" tilt="0"/>
     </hotspots>
     <media/>
     <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
@@ -255,143 +31,18 @@
       <level predecode="1" width="372" preload="1" height="372"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="99.3987" fovmode="0">
+    <view pannorth="255.602" fovmode="0">
       <start pan="0" fov="70" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
     </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30707603" datetime="2025:03:25 17:33:10" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45204873" title="Belinha Calçados" nodeid="node3" streetviewlink="https://www.google.com/maps/@-29.4520487,-51.307076,3a,75y,99.4h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfi-KYAA3_K!2e10" copyright="" heading="99.3987"/>
+    <userdata customnodeid="" author="" description="" longitude="-51.37508377" datetime="2025:03:25 20:20:22" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58896421" title="Belinha Calçados" nodeid="node3" streetviewlink="https://www.google.com/maps/@-29.5889642,-51.3750838,3a,75y,255.6h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjH8wADHiZ!2e10" copyright="" heading="255.602"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="170.49" url="{node11}" title="Belinha Calçados" distance="1.30391" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="249.411" url="{node13}" title="Belinha Calçados" distance="0.974414" tilt="0"/>
-      <hotspot id="Point03" target="$fwd" description="" skinid="ht_node" pan="-13.1038" url="{node18}" title="Belinha Calçados" distance="1.44106" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node13">
-    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="212.004" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30708106" datetime="2025:03:25 17:33:04" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45205632" title="Belinha Calçados" nodeid="node13" streetviewlink="https://www.google.com/maps/@-29.4520563,-51.3070811,3a,75y,212h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-KcAB-Bo!2e10" copyright="" heading="212.004"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="182.016" url="{node3}" title="Belinha Calçados" distance="0.974414" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node18">
-    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="115.126" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30706228" datetime="2025:03:25 17:33:10" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45205369" title="Belinha Calçados" nodeid="node18" streetviewlink="https://www.google.com/maps/@-29.4520537,-51.3070623,3a,75y,115.13h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-MMABPu7!2e10" copyright="" heading="115.126"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="182.624" url="{node3}" title="Belinha Calçados" distance="1.44106" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="-0.990771" url="{node2}" title="Belinha Calçados" distance="1.84398" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node2">
-    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="114.571" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30704518" datetime="2025:03:25 17:33:10" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45206099" title="Belinha Calçados" nodeid="node2" streetviewlink="https://www.google.com/maps/@-29.452061,-51.3070452,3a,75y,114.57h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfi-MEADOPa!2e10" copyright="" heading="114.571"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="178.454" url="{node18}" title="Belinha Calçados" distance="1.84398" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="-8.79885" url="{node9}" title="Belinha Calçados" distance="1.593" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node9">
-    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="212.792" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30703144" datetime="2025:03:25 17:33:14" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45206887" title="Belinha Calçados" nodeid="node9" streetviewlink="https://www.google.com/maps/@-29.4520689,-51.3070314,3a,75y,212.79h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfi-MMACnp3!2e10" copyright="" heading="212.792"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="269.422" url="{node2}" title="Belinha Calçados" distance="1.593" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="84.6538" url="{node10}" title="Belinha Calçados" distance="1.15595" tilt="0"/>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
-  </panorama>
-  <panorama id="node10">
-    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
-      <level predecode="0" width="1488" preload="0" height="1488"/>
-      <level predecode="0" width="744" preload="0" height="744"/>
-      <level predecode="1" width="372" preload="1" height="372"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="299.826" fovmode="0">
-      <start pan="0" fov="70" projection="4" tilt="0"/>
-      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
-    </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30702205" datetime="2025:03:25 17:33:04" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45207529" title="Belinha Calçados" nodeid="node10" streetviewlink="https://www.google.com/maps/@-29.4520753,-51.3070221,3a,75y,299.83h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfi-N0ACjOx!2e10" copyright="" heading="299.826"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="351.688" url="{node9}" title="Belinha Calçados" distance="1.15595" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="262.602" url="{node5}" title="Belinha Calçados" distance="2.20079" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="248.335" url="{node11}" title="Belinha Calçados" distance="4.06682" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="373.439" url="{node5}" title="Belinha Calçados" distance="1.94311" tilt="0"/>
     </hotspots>
     <media/>
     <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
@@ -405,19 +56,319 @@
       <level predecode="1" width="372" preload="1" height="372"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="298.335" fovmode="0">
+    <view pannorth="270.815" fovmode="0">
       <start pan="0" fov="70" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
     </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30700830" datetime="2025:03:25 17:33:10" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45205953" title="Belinha Calçados" nodeid="node5" streetviewlink="https://www.google.com/maps/@-29.4520595,-51.3070083,3a,75y,298.33h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfi-N4AAToh!2e10" copyright="" heading="298.335"/>
+    <userdata customnodeid="" author="" description="" longitude="-51.37510154" datetime="2025:03:25 20:20:21" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58897237" title="Belinha Calçados" nodeid="node5" streetviewlink="https://www.google.com/maps/@-29.5889724,-51.3751015,3a,75y,270.82h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjH80ACfVv!2e10" copyright="" heading="270.815"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="441.111" url="{node10}" title="Belinha Calçados" distance="2.20079" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="344.786" url="{node1}" title="Belinha Calçados" distance="1.79145" tilt="0"/>
-      <hotspot id="Point03" target="$fwd" description="" skinid="ht_node" pan="261.47" url="{node6}" title="Belinha Calçados" distance="2.27241" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="208.652" url="{node3}" title="Belinha Calçados" distance="1.94311" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="383.382" url="{node2}" title="Belinha Calçados" distance="1.65445" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="221.748" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37511734" datetime="2025:03:25 20:20:22" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58897808" title="Belinha Calçados" nodeid="node2" streetviewlink="https://www.google.com/maps/@-29.5889781,-51.3751173,3a,75y,221.75h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjH-sAAEGA!2e10" copyright="" heading="221.748"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="154.315" url="{node5}" title="Belinha Calçados" distance="1.65445" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="357.184" url="{node4}" title="Belinha Calçados" distance="1.56539" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="218.984" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37512870" datetime="2025:03:25 20:20:22" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58898811" title="Belinha Calçados" nodeid="node4" streetviewlink="https://www.google.com/maps/@-29.5889881,-51.3751287,3a,75y,218.98h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfjH-sAA4jl!2e10" copyright="" heading="218.984"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="174.42" url="{node2}" title="Belinha Calçados" distance="1.56539" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="73.5894" url="{node7}" title="Belinha Calçados" distance="1.65492" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180.173" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37517229" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58896625" title="Belinha Calçados" nodeid="node13" streetviewlink="https://www.google.com/maps/@-29.5889662,-51.3751723,3a,75y,180.17h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjH-sABqhA!2e10" copyright="" heading="180.173"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="279.904" url="{node10}" title="Belinha Calçados" distance="2.30254" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="170.341" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37511898" datetime="2025:03:25 20:20:26" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58900036" title="Belinha Calçados" nodeid="node7" streetviewlink="https://www.google.com/maps/@-29.5890004,-51.375119,3a,75y,170.34h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfjIAgABEuG!2e10" copyright="" heading="170.341"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="204.946" url="{node4}" title="Belinha Calçados" distance="1.65492" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="18.82" url="{node16}" title="Belinha Calçados" distance="2.17585" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="208.731" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37510825" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58901756" title="Belinha Calçados" nodeid="node16" streetviewlink="https://www.google.com/maps/@-29.5890176,-51.3751082,3a,75y,208.73h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjIAgACEBE!2e10" copyright="" heading="208.731"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="237.21" url="{node7}" title="Belinha Calçados" distance="2.17585" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="61.5521" url="{node21}" title="Belinha Calçados" distance="2.39229" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="241.247" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37509484" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58903564" title="Belinha Calçados" nodeid="node21" streetviewlink="https://www.google.com/maps/@-29.5890356,-51.3750948,3a,75y,241.25h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjIAkAAPLQ!2e10" copyright="" heading="241.247"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="274.068" url="{node16}" title="Belinha Calçados" distance="2.39229" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="84.3432" url="{node20}" title="Belinha Calçados" distance="2.39592" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="123.567" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37508512" datetime="2025:03:25 20:20:30" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58905546" title="Belinha Calçados" nodeid="node20" streetviewlink="https://www.google.com/maps/@-29.5890555,-51.3750851,3a,75y,123.57h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjICQAA8Cj!2e10" copyright="" heading="123.567"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="146.663" url="{node21}" title="Belinha Calçados" distance="2.39592" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="237.768" url="{node18}" title="Belinha Calçados" distance="2.45204" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="150.162" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37510825" datetime="2025:03:25 20:20:31" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58906450" title="Belinha Calçados" nodeid="node18" streetviewlink="https://www.google.com/maps/@-29.5890645,-51.3751082,3a,75y,150.16h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjICUAAFmP!2e10" copyright="" heading="150.162"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="84.3634" url="{node20}" title="Belinha Calçados" distance="2.45204" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="251.673" url="{node19}" title="Belinha Calçados" distance="3.73893" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="140.799" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37514614" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58907121" title="Belinha Calçados" nodeid="node19" streetviewlink="https://www.google.com/maps/@-29.5890712,-51.3751461,3a,75y,140.8h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfjICUAB9nV!2e10" copyright="" heading="140.799"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="62.3099" url="{node18}" title="Belinha Calçados" distance="3.73893" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="-12.2889" url="{node8}" title="Belinha Calçados" distance="2.43538" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" description="" skinid="ht_node" pan="169.436" url="{node9}" title="Belinha Calçados" distance="4.39625" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="149.285" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37516793" datetime="2025:03:25 20:20:26" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58903651" title="Belinha Calçados" nodeid="node9" streetviewlink="https://www.google.com/maps/@-29.5890365,-51.3751679,3a,75y,149.29h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjIEAABboJ!2e10" copyright="" heading="149.285"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="-2.07773" url="{node19}" title="Belinha Calçados" distance="4.39625" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="79.7236" url="{node17}" title="Belinha Calçados" distance="2.0411" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" description="" skinid="ht_node" pan="169.513" url="{node15}" title="Belinha Calçados" distance="2.62604" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="160.949" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37517732" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58901435" title="Belinha Calçados" nodeid="node15" streetviewlink="https://www.google.com/maps/@-29.5890143,-51.3751773,3a,75y,160.95h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjIEEAAFdu!2e10" copyright="" heading="160.949"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="1.17667" url="{node9}" title="Belinha Calçados" distance="2.62604" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="267.301" url="{node12}" title="Belinha Calçados" distance="1.95897" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="64.3865" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37519676" datetime="2025:03:25 20:20:28" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58901931" title="Belinha Calçados" nodeid="node12" streetviewlink="https://www.google.com/maps/@-29.5890193,-51.3751968,3a,75y,64.39h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjIEEABhu4!2e10" copyright="" heading="64.3865"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="-9.26143" url="{node15}" title="Belinha Calçados" distance="1.95897" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="84.4372" url="{node6}" title="Belinha Calçados" distance="2.17444" tilt="0"/>
     </hotspots>
     <media/>
     <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
@@ -431,42 +382,68 @@
       <level predecode="1" width="372" preload="1" height="372"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="-43.4094" fovmode="0">
+    <view pannorth="162.111" fovmode="0">
       <start pan="0" fov="70" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
     </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30699422" datetime="2025:03:25 17:33:11" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45204318" title="Belinha Calçados" nodeid="node6" streetviewlink="https://www.google.com/maps/@-29.4520432,-51.3069942,3a,75y,316.59h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfi-N4ADUhR!2e10" copyright="" heading="-43.4094"/>
+    <userdata customnodeid="" author="" description="" longitude="-51.37520447" datetime="2025:03:25 20:20:25" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58900094" title="Belinha Calçados" nodeid="node6" streetviewlink="https://www.google.com/maps/@-29.5890009,-51.3752045,3a,75y,162.11h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjIF0ACcM3!2e10" copyright="" heading="162.111"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="99.7254" url="{node5}" title="Belinha Calçados" distance="2.27241" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="2.16167" url="{node12}" title="Belinha Calçados" distance="2.17444" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="180.747" url="{node14}" title="Belinha Calçados" distance="3.04401" tilt="0"/>
     </hotspots>
     <media/>
     <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
     <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
   </panorama>
-  <panorama id="node1">
-    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
       <level predecode="0" width="1488" preload="0" height="1488"/>
       <level predecode="0" width="744" preload="0" height="744"/>
       <level predecode="1" width="372" preload="1" height="372"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="136.293" fovmode="0">
+    <view pannorth="174.874" fovmode="0">
       <start pan="0" fov="70" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
     </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30702171" datetime="2025:03:25 17:33:10" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45204843" title="Belinha Calçados" nodeid="node1" streetviewlink="https://www.google.com/maps/@-29.4520484,-51.3070217,3a,75y,136.3h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfi-O4AB4rf!2e10" copyright="" heading="136.293"/>
+    <userdata customnodeid="" author="" description="" longitude="-51.37521453" datetime="2025:03:25 20:20:28" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58897500" title="Belinha Calçados" nodeid="node14" streetviewlink="https://www.google.com/maps/@-29.588975,-51.3752145,3a,75y,174.87h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfjIF4AAJMm!2e10" copyright="" heading="174.874"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="2.74412" url="{node5}" title="Belinha Calçados" distance="1.79145" tilt="0"/>
-      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="188.752" url="{node8}" title="Belinha Calçados" distance="2.12963" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="13.5103" url="{node6}" title="Belinha Calçados" distance="3.04401" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="102.704" url="{node10}" title="Belinha Calçados" distance="1.90652" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.694" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37519576" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58896975" title="Belinha Calçados" nodeid="node10" streetviewlink="https://www.google.com/maps/@-29.5889698,-51.3751958,3a,75y,134.69h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWigXJSmfjIF8AAeML!2e10" copyright="" heading="134.694"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="242.524" url="{node14}" title="Belinha Calçados" distance="1.90652" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="54.425" url="{node13}" title="Belinha Calçados" distance="2.30254" tilt="0"/>
     </hotspots>
     <media/>
     <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
@@ -480,17 +457,66 @@
       <level predecode="1" width="372" preload="1" height="372"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="117.387" fovmode="0">
+    <view pannorth="-34.6635" fovmode="0">
       <start pan="0" fov="70" projection="4" tilt="0"/>
       <flyin pan="0" fov="170" projection="9" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
     </view>
-    <userdata customnodeid="" author="" description="" longitude="-51.30703915" datetime="2025:03:25 17:33:14" tags="Belinha Calçados" info="" source="" comment="" latitude="-29.45203676" title="Belinha Calçados" nodeid="node8" streetviewlink="https://www.google.com/maps/@-29.4520368,-51.3070392,3a,75y,117.4h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfi-O8ABsbp!2e10" copyright="" heading="117.387"/>
+    <userdata customnodeid="" author="" description="" longitude="-51.37513474" datetime="2025:03:25 20:20:25" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58909074" title="Belinha Calçados" nodeid="node8" streetviewlink="https://www.google.com/maps/@-29.5890907,-51.3751347,3a,75y,325.34h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzBSQLDGfjIHQAArau!2e10" copyright="" heading="-34.6635"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="-10.1539" url="{node1}" title="Belinha Calçados" distance="2.12963" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="-7.75141" url="{node19}" title="Belinha Calçados" distance="2.43538" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="160.83" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37514815" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58903010" title="Belinha Calçados" nodeid="node17" streetviewlink="https://www.google.com/maps/@-29.5890301,-51.3751482,3a,75y,160.83h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjIHUAAErJ!2e10" copyright="" heading="160.83"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="271.269" url="{node9}" title="Belinha Calçados" distance="2.0411" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" description="" skinid="ht_node" pan="178.498" url="{node1}" title="Belinha Calçados" distance="2.348" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" invertwheel="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" simulatemass="1" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1488" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" height="1488" levelingpitch="0">
+      <level predecode="0" width="1488" preload="0" height="1488"/>
+      <level predecode="0" width="744" preload="0" height="744"/>
+      <level predecode="1" width="372" preload="1" height="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="163.497" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" author="" description="" longitude="-51.37515552" datetime="2025:03:25 20:20:29" tags="Belinha calçados 2" info="" source="" comment="" latitude="-29.58900998" title="Belinha Calçados" nodeid="node1" streetviewlink="https://www.google.com/maps/@-29.58901,-51.3751555,3a,75y,163.5h,90t/data=!3m4!1e1!3m2!1sCIABIhADydERBDgdHGfjIHsAAo6m!2e10" copyright="" heading="163.497"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" enabled="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" background="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" description="" skinid="ht_node" pan="1.16537" url="{node17}" title="Belinha Calçados" distance="2.348" tilt="0"/>
     </hotspots>
     <media/>
     <transition zoomin="0" enabled="1" type="crossdissolve" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20"/>
